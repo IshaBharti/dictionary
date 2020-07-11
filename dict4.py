@@ -1,0 +1,9 @@
+person={
+    'name':'jack',
+    'age':20,
+    'gender':'male',
+    4:'organisation'}
+result=(person["age"])
+print(person)
+print(person['name'])
+print(result)
